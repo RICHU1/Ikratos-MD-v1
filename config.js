@@ -114,7 +114,7 @@ global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🎋 ┊ ᴅᴀʀᴋʟᴇᴇ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.imgur.com/eohAVzS.jpeg'
+global.logo = 'https://i.imgur.com/XjiMUp1.jpeg'
 
 
 
